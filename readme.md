@@ -1,0 +1,1 @@
+This repository contains scripts to register the Embedded STS with SharePoint and maps incoming claims to SharePoint.
